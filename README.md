@@ -22,11 +22,13 @@ The ELIXIR Software Management Plan (SMP) is provided and supported by the [Soft
 * Matúš Kalaš
 * Renato Alves
 * Albert Hornos
+* Jennifer Harrow
 
 ## Publications
 
 
 ## How to cite this repository
+
 
 ## License
 
