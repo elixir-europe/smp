@@ -28,6 +28,10 @@ The ELIXIR Software Management Plan (SMP) is provided and supported by the [Soft
 
 ## How to cite this repository
 
+## License
+
+The SMP repository is licensed under [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
