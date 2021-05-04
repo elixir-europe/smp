@@ -28,6 +28,7 @@ The ELIXIR Software Management Plan (SMP) is provided and supported by the [Soft
 
 
 ## How to cite this repository
+Alves R, Bampalikis D, Castro LJ, Fernández JM, Harrow J, Martin Del Pico E, et al. ELIXIR Software Management Plan. In: GitHub [Internet]. [cited dd mm yyyy]. Available: https://github.com/elixir-europe/smp
 
 
 ## License
