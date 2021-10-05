@@ -9,7 +9,7 @@ The ELIXIR Software Management Plan (SMP) is provided and supported by the [Soft
 * Produce training material on SMPs, and expand the training portfolio of the Software Best Practices
 * Create a community structure around the sustainability, adoption and maintenance of the Software Management Plan effort
 
-## People
+## Participants
 
 * Fotis Psomopoulos 
 * Allegra Via 
