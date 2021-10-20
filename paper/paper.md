@@ -37,22 +37,22 @@ authors:
     orcid: 0000-0002-3398-5462
     affiliation: 8
 affiliations:
- - name: European Molecular Biology Laboratory, Meyerhofstraße 1, 69117 Heidelberg, Germany, ELIXIR-DE/de.NBI
-   index: 1
- - name: National Bioinformatics Infrastructure Sweden, ELIXIR-SE, Husargatan, 75237 Uppsala, Sweden
-   index: 2
- - name: ZB MED Information Centre for Life Sciences, Cologne, Germany
-   index: 3
- - name: Barcelona Supercomputing Center, ELIXIR-ES, Plaça Eusebi Güell, 1-3, Barcelona, 08034, Spain
-   index: 4
- - name: ELIXIR-Hub, South Building Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, UK
-   index: 5
+  - name: European Molecular Biology Laboratory, Meyerhofstraße 1, 69117 Heidelberg, Germany, ELIXIR-DE/de.NBI
+    index: 1
+  - name: National Bioinformatics Infrastructure Sweden, ELIXIR-SE, Husargatan, 75237 Uppsala, Sweden
+    index: 2
+  - name: ZB MED Information Centre for Life Sciences, Cologne, Germany
+    index: 3
+  - name: Barcelona Supercomputing Center, ELIXIR-ES, Plaça Eusebi Güell, 1-3, Barcelona, 08034, Spain
+    index: 4
+   - name: ELIXIR-Hub, South Building Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, UK
+    index: 5
   - name: The Netherlands eScience Center, Amsterdam, NL
-   index: 6
- - name: Institute of Applied Biosciences, Centre for Research and Technology Hellas, 6th km Charilaou-Thermis rd, Thermi, Thessaloniki, 57001, Greece
-   index: 7
- - name: IBPM-CNR, c/o Department of Biochemical Sciences "A. Rossi Fanelli", Sapienza University of Rome, P.le Aldo Moro 5, 00185 Rome, Italy
-   index: 8
+    index: 6
+  - name: Institute of Applied Biosciences, Centre for Research and Technology Hellas, 6th km Charilaou-Thermis rd, Thermi, Thessaloniki, 57001, Greece
+    index: 7
+  - name: IBPM-CNR, c/o Department of Biochemical Sciences "A. Rossi Fanelli", Sapienza University of Rome, P.le Aldo Moro 5, 00185 Rome, Italy
+    index: 8
 date: 05 October 2021
 bibliography: paper.bib
 authors_short: Alves et al. (2021) ELIXIR SMPs
