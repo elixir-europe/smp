@@ -240,9 +240,9 @@ Here we present the ELIXIR SMP, as a result from the BioHackathon Europe 2019 an
 |||
 |--- |--- |
 |1) How can the software be accessed by third parties? | checklist |
-| | ❑ Publicly available (e.g. GitHub, via URL, etc.) |
-| | ❑ Not relevant/applicable to me |
-| | ❑ Other |
+| | &#2571; Publicly available (e.g. GitHub, via URL, etc.) |
+| | &#2571; Not relevant/applicable to me |
+| | &#2571; Other |
 | 2) Software without a license cannot be used by others. Does your software have a license? | Yes/No |
 | 3) If yes, what is the license of your software? | SPDX List + Other + NA |
 
