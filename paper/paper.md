@@ -240,9 +240,9 @@ Here we present the ELIXIR SMP, as a result from the BioHackathon Europe 2019 an
 |||
 |--- |--- |
 |1) How can the software be accessed by third parties? | checklist |
-| | - [ ] Publicly available (e.g. GitHub, via URL, etc.) |
-| | - [ ] Not relevant/applicable to me |
-| | - [ ] Other |
+| | Publicly available (e.g. GitHub, via URL, etc.) |
+| | Not relevant/applicable to me |
+| | Other |
 | 2) Software without a license cannot be used by others. Does your software have a license? | Yes/No |
 | 3) If yes, what is the license of your software? | SPDX List + Other + NA |
 
@@ -279,12 +279,12 @@ Here we present the ELIXIR SMP, as a result from the BioHackathon Europe 2019 an
 |1) What type of testing do you use?|||||
 ||None|Yes||No|
 ||Unit|Yes (Manual)|Yes (Automatic)|No|
-||Integration|Yes (Manual)|Yes (Automatic|No|
-||Functional|Yes (Manual)|Yes (Automatic|No|
-||End-to-end|Yes (Manual)|Yes (Automatic|No|
-||Linting|Yes (Manual)|Yes (Automatic|No|
-||Regression|Yes (Manual)|Yes (Automatic|No|
-||Frontend - GUI|Yes (Manual)|Yes (Automatic|No|
+||Integration|Yes (Manual)|Yes (Automatic)|No|
+||Functional|Yes (Manual)|Yes (Automatic)|No|
+||End-to-end|Yes (Manual)|Yes (Automatic)|No|
+||Linting|Yes (Manual)|Yes (Automatic)|No|
+||Regression|Yes (Manual)|Yes (Automatic)|No|
+||Frontend - GUI|Yes (Manual)|Yes (Automatic)|No|
 ||Other (e.g.)||||
 |2) Are sample data and/or parameters that can be used to test the software available with the source code?|Yes|No|NA||
 
