@@ -233,50 +233,42 @@ This group includes stakeholders that are primarily responsible for filling a SM
 
 ## ELIXIR SMPs
 
-Here we present the ELIXIR SMP, as a result from the BioHackathon Europe 2019 and 2020 as well as the ELIXIR All Hands 2021. This version is the result of the community-based revision process described in the [Methods section](#methods). Table XX shows the relation between the softwage stages and our SMP.
+Here we present the ELIXIR SMP, as a result from the BioHackathon Europe 2019 and 2020 as well as the ELIXIR All Hands 2021. This version is the result of the community-based revision process described in the [Methods section](#methods). 
 
 ### Accessibility / License
 
-
-1) How can the software be accessed by third parties?
-checklist
-
-
-Publicly available (e.g. GitHub, via URL, etc.)
-
-
-Not relevant/applicable to me
-
-
-Other
-2) Software without a license cannot be used by others. Does your software have a license? 
-Yes/No
-3) If yes, what is the license of your software?
-SPDX List + Other + NA
+|||
+|--- |--- |
+|1) How can the software be accessed by third parties? | checklist |
+| | - [ ] Publicly available (e.g. GitHub, via URL, etc.) |
+| | - [ ] Not relevant/applicable to me |
+| | - [ ] Other |
+| 2) Software without a license cannot be used by others. Does your software have a license? | Yes/No |
+| 3) If yes, what is the license of your software? | SPDX List + Other + NA |
 
 
 
 ### Documentation
 
 
-|||||
-|--- |--- |--- |--- |
-|1) What type of documentation is available, provided with the software and delivered under the same conditions? Please provide a URL (when available).|Type|checklist|Please provide the corresponding URL, if available|
-||User documentation|||
-||Programmers documentation|||
-||API documentation|||
-||README file|||
-||Release notes|||
-||Docstring/comments in the source code|||
-||CHANGELOG|||
-||Other (for more than one, please add multiple rows)|||
-||None|||
-|2) Is the purpose of the software stated in the documentation?|Yes/No|||
-|3) Does the documentation describe how to|test the software|Yes/No||
-||use the software|Yes/No||
-||build the software|Yes/No/NA||
-||deploy the software|Yes/No/NA||
-||install the software|Yes/No/NA||
+||||
+|--- |--- |--- |
+|1) What type of documentation is available, provided with the software and delivered under the same conditions? Please provide a URL (when available).|checklist|Please provide the corresponding URL, if available|
+||User documentation||
+||Programmers documentation||
+||API documentation||
+||README file||
+||Release notes||
+||Docstring/comments in the source code||
+||CHANGELOG||
+||Other (for more than one, please add multiple rows)||
+||None||
+|2) Is the purpose of the software stated in the documentation?|Yes/No||
+|3) Does the documentation describe how to|test the software|Yes/No|
+||use the software|Yes/No|
+||build the software|Yes/No/NA|
+||deploy the software|Yes/No/NA|
+||install the software|Yes/No/NA|
 
 
 ### Testing
