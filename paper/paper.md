@@ -36,8 +36,9 @@ authors:
   - name: Allegra Via
     orcid: 0000-0002-3398-5462
     affiliation: 8
+
 affiliations:
-  - name: European Molecular Biology Laboratory, Meyerhofstraße 1, 69117 Heidelberg, Germany, ELIXIR-DE/de.NBI
+ - name: European Molecular Biology Laboratory, Meyerhofstraße 1, 69117 Heidelberg, Germany, ELIXIR-DE/de.NBI
     index: 1
   - name: National Bioinformatics Infrastructure Sweden, ELIXIR-SE, Husargatan, 75237 Uppsala, Sweden
     index: 2
